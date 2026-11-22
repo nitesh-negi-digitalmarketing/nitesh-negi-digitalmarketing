@@ -1,16 +1,62 @@
-## Hi there 👋
 
-<!--
-**nitesh-negi-digitalmarketing/nitesh-negi-digitalmarketing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bloomshades – Corporate WordPress Website
 
-Here are some ideas to get you started:
+### Excellence in Workforce Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A professional corporate website developed for Bloomshades Management Services Pvt. Ltd., showcasing premium staffing and workforce management solutions.
+
+## 🌐 Live Website
+https://bloomshades.co.in/
+
+## 💼 Project Overview
+
+Bloomshades is a corporate website designed to present professional staffing services, business solutions and workforce management expertise.
+
+## 👨‍💻 My Role
+
+WordPress Website Developer
+
+## 🛠️ Technologies & Tools
+
+- WordPress
+- HTML5
+- CSS3
+- JavaScript
+- Canva
+- Hostinger
+
+## ✨ Key Features
+
+- Professional corporate website design
+- Premium black and gold visual styling
+- Responsive website layout
+- Custom navigation and service sections
+- Dedicated business service pages
+- Career and contact pages
+- Website content management
+
+## 📄 Website Pages
+
+- Home
+- About Us
+- Our Services
+- HNI Residential & Corporate Staffing
+- Premium Event Staffing
+- Oil & Gas
+- Renewable Energy
+- Career
+- Contact Us
+- Blog
+- Privacy Policy
+
+## 🎯 Project Objective
+
+To establish a professional online presence for Bloomshades and showcase its workforce solutions through a modern corporate website.
+
+## 👨‍💻 Developer
+
+**Nitesh Negi**
+
+Digital Marketing Executive | WordPress Developer | SEO Specialist
+
+[Connect on LinkedIn](https://www.linkedin.com/in/nitesh-negi-digitalmarketing/)
