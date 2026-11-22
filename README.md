@@ -116,42 +116,61 @@ I enjoy combining website development, creative design, and data-driven marketin
 
 <!-- ================= TOOLS ================= -->
 
+
 ## 🛠️ Tools & Technologies
 
 ### 🌐 Website Development & Design
 
 <p>
-<img src="https://skillicons.dev/icons?i=wordpress,html,css,js" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
 </p>
 
 ### 🔍 SEO & Website Analytics
 
 <p>
-<img src="https://img.shields.io/badge/Google_Search_Console-458CF5?style=for-the-badge&logo=google-search-console&logoColor=white" />
+<img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Search_Console-458CF5?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Trends-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Business_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white" />
 </p>
 
-### 📢 Advertising & Social Media
+### 📢 Digital Advertising & Social Media
 
 <p>
 <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" />
 <img src="https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
-### 🎨 Creative & Productivity Tools
+### 🎨 Creative Design & Productivity
 
 <p>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
+
+### 🤖 AI Tools & Automation
+
+<p>
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Writesonic-6B4EFF?style=for-the-badge&logo=writesonic&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Content_Creation-222222?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Powered_Marketing-0A7EA4?style=for-the-badge&logo=probot&logoColor=white" />
+</p>
+
 
 ---
 
