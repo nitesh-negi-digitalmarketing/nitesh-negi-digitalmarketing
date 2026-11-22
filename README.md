@@ -8,7 +8,7 @@ Digital Marketing Executive | SEO Specialist | WordPress Website Developer
 </h3>
 
 <p align="center">
-Building Digital Experiences • Growing Brands • Driving Online Visibility
+Building Digital Experiences • Growing Brands • Improving Online Visibility
 </p>
 
 <p align="center">
@@ -26,125 +26,114 @@ Building Digital Experiences • Growing Brands • Driving Online Visibility
 
 I'm a Digital Marketing Professional with hands-on experience in WordPress website development, website design and redesign, Search Engine Optimization (SEO), Local SEO, paid advertising and social media marketing.
 
-Currently working as a **Digital Marketing Executive at Mindgroom Services Pvt. Ltd.**, where I contribute to website optimization, SEO strategies, digital campaigns, social media creatives and online brand management across multiple business websites.
+Currently working as a **Digital Marketing Executive at Mindgroom Career Guidance & Counselling**, where I contribute to website page design and redesign, SEO, local search visibility, advertising campaigns, social media creatives and online brand management across multiple websites.
 
-I also have practical experience in developing and managing WordPress websites and WooCommerce stores, helping businesses establish and strengthen their digital presence.
+I also independently develop and manage WordPress websites and WooCommerce stores, helping businesses build and strengthen their digital presence.
 
-**My professional focus:**
+**My Professional Focus:**
 - 🌐 WordPress Website Development & Management
 - 🎨 Website Page Design, Redesign & Customization
 - 🔍 On-Page, Off-Page & Technical SEO
 - 📍 Local SEO & Google Business Profile Management
 - 📢 Google Ads & Meta Ads
-- 📱 Social Media Marketing & Creative Designing
+- 📱 Social Media Marketing & Optimization
 - 🛒 WooCommerce & E-Commerce Management
-- 🤖 AI-Powered Content & Marketing Tools
+- 🤖 AI-Assisted Content & Marketing Workflows
 - 📊 Website Analytics & Performance Monitoring
 
 ---
 
 ## 💼 Professional Experience
 
+<table>
+<tr>
+<td width="100%">
+
 ### 🏢 Digital Marketing Executive
-**Mindgroom Services Pvt. Ltd.**
+**Mindgroom Career Guidance & Counselling**
 
-<sub>Current Position | Digital Marketing & Website Management</sub>
+<sub>📅 October 2023 – Present &nbsp; | &nbsp; 💼 Full-time &nbsp; | &nbsp; 📍 New Delhi, India · On-site</sub>
 
-Working across multiple business websites and digital marketing activities, focusing on improving online visibility, website performance, brand presence and lead generation.
+Managing digital marketing activities, website page management, client communication and online business growth initiatives.
 
-### Key Responsibilities
-
-- 🌐 Managing and optimizing multiple WordPress websites.
+**Key Responsibilities:**
+- 🌐 Managing and optimizing WordPress websites.
 - 🎨 Designing, updating and redesigning website pages and sections.
 - 🔍 Performing On-Page, Off-Page and Technical SEO activities.
-- 📍 Managing Local SEO and Google Business Profile (GMB).
+- 📍 Managing Local SEO and Google Business Profile.
 - 🔎 Conducting keyword research and competitor analysis.
-- 📢 Planning and managing Google Ads and Meta Ads campaigns.
-- 📱 Managing social media platforms and content activities.
-- 🎨 Designing promotional creatives, social media graphics and marketing materials using Canva.
-- 🎬 Creating and editing marketing videos.
-- 📝 Preparing website content, SEO blogs and promotional content.
+- 📢 Working on Google Ads and Meta Ads campaigns.
+- 📱 Managing social media marketing and optimization.
+- 🎨 Creating Canva creatives, promotional graphics and marketing materials.
+- 🎬 Editing promotional videos and social media content.
+- 📝 Preparing website content, SEO blogs and promotional copy.
 - 📊 Maintaining marketing reports, sales sheets and performance records.
-- 🤝 Handling client communication, follow-ups and B2B business development support.
+- 🤝 Supporting client communication, follow-ups, B2B sales and business development.
 - 💻 Coordinating DMIT and Midbrain software demonstrations and client queries.
 
-### 🌐 Websites Managed at Mindgroom
+**Websites Worked On at Mindgroom:**
 
-#### 1. Mindgroom
-**Career Counselling & Digital Marketing Website**
+1. [Mindgroom](https://www.mindgroom.com/) — SEO, website page design/redesign, Local SEO, Google Business Profile, ads and social media creatives.
+2. [The Career Galaxy](https://thecareergalaxy.com/) — SEO, website page design/redesign, Local SEO, Google Business Profile and social media marketing.
+3. [DMIT Software](https://dmitsoftware.in/) — SEO, website page design/redesign, Local SEO, Google Business Profile, ads and promotional creatives.
 
-Website: https://www.mindgroom.com/
+</td>
+</tr>
 
-**My Contributions:**
-- SEO optimization and website content improvements.
-- Designing and redesigning website pages and sections.
-- On-Page SEO and Off-Page SEO activities.
-- Local SEO and Google Business Profile management.
-- Google Ads and Meta Ads activities.
-- Social media creatives and promotional campaigns.
-- Website content and blog optimization.
+<tr>
+<td width="100%">
 
-#### 2. The Career Galaxy
-**Career Guidance & Counselling Website**
+### 🎓 SEO Intern
+**Expert Training Institute**
 
-Website: https://thecareergalaxy.com/
+<sub>📅 August 2023 – October 2023 &nbsp; | &nbsp; 🎯 Internship · 3 Months &nbsp; | &nbsp; 📍 Rohini, Delhi, India · On-site</sub>
 
-**My Contributions:**
-- Website page design and redesign.
-- SEO and keyword optimization.
-- Website content optimization.
-- Local SEO activities.
-- Google Business Profile management.
-- Social media marketing and creative designing.
-- Digital brand presence management.
+Completed a three-month SEO internship, gaining practical experience in search engine optimization and website optimization techniques.
 
-#### 3. DMIT Software
-**DMIT & Midbrain Software Business Website**
+**Key Learning & Responsibilities:**
+- 🔍 On-Page and Off-Page SEO
+- 🔑 Keyword Research & Analysis
+- 🔗 Backlink Building and Link Building
+- 📍 Google Business Profile (GMB)
+- 📝 Website Content Optimization
+- 📱 Social Media Marketing
+- 📧 Email Marketing
+- 📢 Fundamentals of Google Ads
 
-Website: https://www.mindgroom.com/services/dmit-software/
-
-**My Contributions:**
-- Website page design and redesign.
-- SEO and website content optimization.
-- Keyword research and search visibility activities.
-- Local SEO and Google Business Profile support.
-- Digital marketing and promotional creatives.
-- Google Ads and Meta Ads activities.
-- Social media marketing and software promotion.
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 My Professional Skills
+## 💡 My Professional Skills
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🌐 Website Development & Design
-
-- 🖥️ WordPress Website Development
-- 🎨 Website Page Design & Redesign
-- 🧩 Website Customization
-- 📱 Responsive Web Design
-- 🛒 WooCommerce Management
-- 💳 Payment Gateway Integration
-- ⚡ Website Optimization
-- 🔧 Website Maintenance
+- WordPress Website Development
+- Website Page Design & Redesign
+- Website Customization
+- Responsive Web Design
+- WooCommerce Management
+- Payment Gateway Integration
+- Website Maintenance
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔍 Search Engine Optimization
-
-- 🎯 Keyword Research
-- 📄 On-Page SEO
-- 🔗 Off-Page SEO
-- ⚙️ Technical SEO
-- 📍 Local SEO
-- 🏢 Google Business Profile
-- 📊 Competitor Analysis
-- 🔎 Backlink Building
-- 📝 Content Optimization
+- Keyword Research
+- On-Page SEO
+- Off-Page SEO
+- Technical SEO
+- Local SEO
+- Google Business Profile
+- Competitor Analysis
+- Backlink Building
+- Content Optimization
 
 </td>
 </tr>
@@ -152,9 +141,8 @@ Website: https://www.mindgroom.com/services/dmit-software/
 <td width="50%" valign="top">
 
 ### 📢 Paid Advertising
-
-- Google Ads Campaign Management
-- Meta Ads Campaign Management
+- Google Ads
+- Meta Ads
 - Search Advertising
 - Audience Targeting
 - Lead Generation
@@ -165,7 +153,6 @@ Website: https://www.mindgroom.com/services/dmit-software/
 <td width="50%" valign="top">
 
 ### 📱 Social Media Marketing
-
 - Social Media Marketing (SMM)
 - Social Media Optimization (SMO)
 - Content Planning
@@ -180,8 +167,7 @@ Website: https://www.mindgroom.com/services/dmit-software/
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Creative & Content
-
+### 🎨 Creative Design & Content
 - Canva Graphic Designing
 - Social Media Creatives
 - Promotional Banners
@@ -194,7 +180,6 @@ Website: https://www.mindgroom.com/services/dmit-software/
 <td width="50%" valign="top">
 
 ### 📊 Business & Marketing Support
-
 - Client Communication
 - B2B Sales Support
 - Lead Management
@@ -225,7 +210,6 @@ Website: https://www.mindgroom.com/services/dmit-software/
 ### 🔍 SEO & Website Analytics
 
 <p>
-<img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Search_Console-458CF5?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Trends-4285F4?style=for-the-badge&logo=google&logoColor=white" />
@@ -261,8 +245,6 @@ Website: https://www.mindgroom.com/services/dmit-software/
 <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/Writesonic-6B4EFF?style=for-the-badge&logo=writesonic&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Content_Creation-222222?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Marketing_Tools-0A7EA4?style=for-the-badge&logo=probot&logoColor=white" />
 </p>
 
 ---
@@ -270,25 +252,24 @@ Website: https://www.mindgroom.com/services/dmit-software/
 ## 🚀 Featured Projects
 
 <p align="center">
-My practical experience in website development, website optimization, SEO and digital marketing.
+A selection of professional and independent projects showcasing my experience in website development, website optimization, SEO and digital marketing.
 </p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🏢 Mindgroom</h3>
-<p align="center"><b>Career Counselling & Digital Marketing</b></p>
+### 🏢 Mindgroom
+**Career Counselling & Digital Marketing**
 
-A professional career counselling platform offering career guidance, assessments and counselling services.
+A career guidance and counselling platform offering career assessment, counselling and related services.
 
-**My Work:**
+**My Contributions:**
+- SEO and website content optimization
 - Website page design and redesign
-- SEO optimization
 - Local SEO & Google Business Profile
-- Google Ads & Meta Ads
-- Social media creatives
-- Website content optimization
+- Google Ads & Meta Ads activities
+- Social media creatives and promotions
 
 <p align="center">
 <a href="https://www.mindgroom.com/">
@@ -299,18 +280,17 @@ A professional career counselling platform offering career guidance, assessments
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🌐 The Career Galaxy</h3>
-<p align="center"><b>Career Guidance & Counselling</b></p>
+### 🌐 The Career Galaxy
+**Career Guidance & Counselling**
 
-A career guidance platform providing career assessments, counselling, career roadmaps and educational guidance.
+A career guidance platform focused on career exploration, counselling and educational guidance.
 
-**My Work:**
+**My Contributions:**
 - Website page design and redesign
 - On-Page and Off-Page SEO
-- Local SEO
-- Google Business Profile
-- Social media marketing
-- Creative designing and content optimization
+- Local SEO and Google Business Profile
+- Website content optimization
+- Social media marketing and creatives
 
 <p align="center">
 <a href="https://thecareergalaxy.com/">
@@ -320,25 +300,24 @@ A career guidance platform providing career assessments, counselling, career roa
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">💻 DMIT Software</h3>
-<p align="center"><b>DMIT & Midbrain Software</b></p>
+### 💻 DMIT Software
+**DMIT Software, Franchise & Midbrain Solutions**
 
-A business platform showcasing DMIT and Midbrain software solutions, features and business opportunities.
+A business website presenting DMIT software and franchise opportunities, Midbrain Activation, DMIT training, counselling services and marketing support for business partners.
 
-**My Work:**
+**My Contributions:**
 - Website page design and redesign
 - SEO and content optimization
 - Keyword research
-- Local SEO support
-- Google Ads & Meta Ads
-- Social media promotional creatives
+- Local SEO and Google Business Profile
+- Google Ads and Meta Ads activities
+- Social media and promotional creatives
 
 <p align="center">
-<a href="https://www.mindgroom.com/services/dmit-software/">
+<a href="https://dmitsoftware.in/">
 <img src="https://img.shields.io/badge/Visit_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 </p>
@@ -346,15 +325,15 @@ A business platform showcasing DMIT and Midbrain software solutions, features an
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🌐 Bloomshades</h3>
-<p align="center"><b>Corporate WordPress Website</b></p>
+### 🏢 Bloomshades
+**Corporate WordPress Website**
 
-A professional corporate website for Bloomshades Management Services Pvt. Ltd., focused on premium staffing and workforce solutions.
+A corporate website for Bloomshades Management Services Pvt. Ltd., presenting staffing and workforce solutions.
 
-**My Work:**
+**My Contributions:**
 - WordPress website development
 - Website design and customization
-- Responsive website layout
+- Responsive page layouts
 - Corporate service pages
 - Career and contact pages
 - Website content management
@@ -369,16 +348,15 @@ A professional corporate website for Bloomshades Management Services Pvt. Ltd., 
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🛒 Meal2Heal</h3>
-<p align="center"><b>WooCommerce E-Commerce Website</b></p>
+### 🛒 Meal2Heal
+**WooCommerce E-Commerce Website**
 
-An e-commerce website developed to provide an online shopping experience with product management and payment functionality.
+An online store built with WordPress and WooCommerce, with product and payment functionality.
 
-**My Work:**
+**My Contributions:**
 - WordPress & WooCommerce development
 - E-commerce website design
 - Cashfree payment gateway integration
@@ -397,29 +375,28 @@ An e-commerce website developed to provide an online shopping experience with pr
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🎨 King Creation</h3>
-<p align="center"><b>Website Development Project</b></p>
+### 🎨 King Creation
+**Website Development Project**
 
 A website project showcasing practical experience in website development and digital presence creation.
 
 **Project Focus:**
 - Website development
 - Website design and customization
-- Web content presentation
+- Content presentation
 - Online brand presence
 
 </td>
 </tr>
-
 <tr>
 <td colspan="2" valign="top">
 
-<h3 align="center">🔍 365 Pest Control</h3>
-<p align="center"><b>Off-Page SEO Project | Australia</b></p>
+### 🔍 365 Pest Control
+**Off-Page SEO Project | Australia**
 
-An SEO project for an Australian pest control business, focused on strengthening its online presence and search engine visibility.
+An SEO project for an Australian pest control business, focused on strengthening its online presence and search visibility.
 
-**My Work:**
+**My Contributions:**
 - Off-Page SEO activities
 - Backlink research and building
 - Link building activities
@@ -441,54 +418,42 @@ An SEO project for an Australian pest control business, focused on strengthening
 ## 🎓 Licenses & Certifications
 
 ### 🏅 1. Digital Marketing Certification
-
 **HubSpot Academy**
-
 - 📅 Issued: September 2026
 - ⏳ Expires: October 2028
 - 🆔 Credential ID: `a27a43ef12c94df7a7ab066bdbe4178e`
 
-**Skills Covered:**
 SEO-friendly content, website optimization, social media strategy, video marketing, advertising and campaign performance measurement.
 
 ### 🏅 2. Google Ads Search Certification
-
 **Google**
-
 - 📅 Issued: September 2026
 - ⏳ Expires: September 2027
 - 🆔 Credential ID: `195023219`
 
-**Skills Covered:**
 Search campaign setup, keyword targeting, ad creation, bidding strategies and campaign performance optimization.
 
 ### 🏅 3. Digital Marketing Internship Certificate
-
 **Expert Training Institute**
-
 - 📅 Issued: August 2023
 - 🎓 Duration: 3 Months
 
-**Skills Covered:**
-Search Engine Optimization, Social Media Marketing, Google Business Profile, Email Marketing and Paid Advertising.
+Practical training in SEO, social media marketing, Google Business Profile, email marketing and paid advertising.
 
 ### 🏅 4. Digital Marketing Course Certificate
-
 **Expert Training Institute**
-
 - 📅 Issued: April 2023
 
-**Skills Covered:**
-Digital Marketing Fundamentals, SEO, Social Media Marketing and Google Business Profile.
+Training in digital marketing fundamentals, SEO, social media marketing and Google Business Profile.
 
 ---
 
 ## 💡 What I Do
 
-| Service | My Expertise |
+| Service | Expertise |
 |---|---|
 | 🌐 Website Development | WordPress Website Creation & Management |
-| 🎨 Website Design | Website Page Design, Redesign & Customization |
+| 🎨 Website Design | Page Design, Redesign & Customization |
 | 🔍 SEO | On-Page, Off-Page & Technical SEO |
 | 📍 Local SEO | Google Business Profile & Local Visibility |
 | 📢 Paid Marketing | Google Ads & Meta Ads |
